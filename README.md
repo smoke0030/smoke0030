@@ -56,6 +56,48 @@
 
 ###
 
+<table>
+  <tr>
+  <th>Представление</th>
+  <th>Описание</th>
+  <th>Технологии</th>
+    </tr>
+
+<tr>
+  <td>
+    <img src="https://github.com/smoke0030/smoke0030/blob/main/Assets/FakeNFT.gif">
+  </td>
+  <td> 
+    <p align="center">Работая над этим проектом мной был реализовыван эпик статистики. <br>
+Я получил ценный опыт командной работы <br>
+и самостоятельного выбора архитектуры. <br>
+Мы создали полноценное приложения на моковом сервере, который<br>
+позволил нам имитировать имитировать покупки и просматривать<br>
+пользовательские коллекции NFT. <br>
+Реализовали сетевые запросы и работали с многопоточностью. </p>
+  </td>
+  <td>
+    <ul>
+      <li>UiCollectionView</li>
+      <li>Alamofire</li>
+      <li>Decomposition</li>
+      <li>MVP</li>
+    </ul>
+  </td>
+</tr>
+
+<tr>
+   <td>
+    <img src="https://github.com/smoke0030/smoke0030/blob/main/Assets/ImageFeed.gif">
+  </td>
+  <td>
+    
+  </td>
+</tr>
+</table>
+
+###
+
 <h3>⚙️ Моя статистика:</h3>
 
 <table>
