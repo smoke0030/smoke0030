@@ -45,3 +45,22 @@
     <th>🧰 Interface Builder</th>
   </tr>
 </table>
+
+
+
+<h1>⚙️ Моя статистика</h1>
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="http://www.github.com/smoke0030">
+        <img src="https://github-readme-stats.vercel.app/api?username=smoke0030&show_icons=true&hide=stars,contribs&rank_icon=github" alt="Smoke0030's GitHub stats" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="http://www.github.com/smoke0030">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=smoke0030&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
