@@ -127,9 +127,10 @@
    <td>
      <ul>
       <li>UiCollectionView</li>
-      <li>Alamofire</li>
-      <li>Decomposition</li>
-      <li>MVP</li>
+      <li>SQL</li>
+      <li>CoreData</li>
+      <li>MVVM</li>
+      <li>Snapshot Testing</li>
     </ul>
    </td>
 <tr>
