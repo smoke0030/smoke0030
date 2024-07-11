@@ -25,32 +25,31 @@
 
 <table>
   <tr>
-    <th>🚀 Swift</th>
-    <th>📱 UIKit</th>
-    <th>🔄 GCD</th>
-    <th>🏗️ MVC</th>
-    <th>🧰 Xcode</th>
+    <td>🚀 Swift</td>
+    <td>📱 UIKit</td>
+    <td>🔄 GCD</td>
+    <td>🏗️ MVC</td>
+    <td>🧰 Xcode</td>
+    <td>🏛️ MVP</td>
+    <td>📦 CocoaPods</td>
   </tr>
   <tr>
-    <th>🏛️ MVP</th>
-    <th>🧰 Sourcetree</th>
-    <th>📂 CoreData</th>
-    <th>🔄 URLSession</th>
-    <th>🔲 AutoLayout</th>
+    <td>🧰 Sourcetree</td>
+    <td>📂 CoreData</td>
+    <td>🔄 URLSession</td>
+    <td>🔲 AutoLayout</td>
+    <td>✅ Unit Testing</td>
+    <td>🛠️ UI Testing</td>
+    <td>🧰 Interface Builder</td>
   </tr>
   <tr>
-    <th>✅ Unit Testing</th>
-    <th>🛠️ UI Testing</th>
-    <th>📸 Snapshot Testing</th>
-    <th>📚 SOLID</th>
-    <th>💾 UserDefaults</th>
-  </tr>
-  <tr>
-    <th>🔄 Alamofire</th>
-    <th>🗃️ Firebase</th>
-    <th>🗂️ GitHub</th>
-    <th>📦 CocoaPods</th>
-    <th>🧰 Interface Builder</th>
+    <td>📸 Snapshot Testing</td>
+    <td>📚 SOLID</td>
+    <td>💾 UserDefaults</td>
+    <td>🔄 Alamofire</td>
+    <td>🗃️ Firebase</td>
+    <td>🗂️ GitHub</td>
+    <td>🗃️ CoreData</td>
   </tr>
 </table>
 
@@ -68,13 +67,13 @@
     <img src="https://github.com/smoke0030/smoke0030/blob/main/Assets/FakeNFT.gif">
   </td>
   <td> 
-    <p align="center">Работая над этим проектом мной был реализовыван эпик статистики. <br>
-Я получил ценный опыт командной работы <br>
-и самостоятельного выбора архитектуры. <br>
-Мы создали полноценное приложения на моковом сервере, который<br>
-позволил нам имитировать имитировать покупки и просматривать<br>
-пользовательские коллекции NFT. <br>
-Реализовали сетевые запросы и работали с многопоточностью. </p>
+    <p align="center">Работая над этим проектом мной был реализовыван эпик статистики. 
+Я получил ценный опыт командной работы 
+и самостоятельного выбора архитектуры. 
+Мы создали полноценное приложения на моковом сервере, который
+позволил нам имитировать имитировать покупки и просматривать
+пользовательские коллекции NFT. 
+Реализовали сетевые запросы и работали с многопоточностью. 
   </td>
   <td>
     <ul>
