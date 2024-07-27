@@ -142,7 +142,21 @@
     <img src="https://github.com/smoke0030/smoke0030/blob/main/Assets/iMusic.gif">
   </td>
   <td>
-    
+    <p><a href="https://github.com/smoke0030/iMusic">Приложение для прослушивания музыки(iMusic)</a></p>
+     Для создания приложения iMusic на основе ITunes search API  <br>
+активно использовались Alamofire и AVKit, а также swiftUI. <br>
+В приложении реализован поиск треков, их прослушивание и добавление в избранные, <br>
+пользователи также могут удалять треки из избранного. <br>
+    Помимо прочего реализовано мини вью над таб баром, через которое также можно переключать треки <br>
+  </td>
+  <td>
+    <ul>
+      <li>UiTableView</li>
+      <li>Alamofire</li>
+      <li>AVkit</li>
+      <li>Clean swift</li>
+      <li>SwiftUI</li>
+    </ul>
   </td>
 </tr>
 </table>
